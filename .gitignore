@@ -1,0 +1,5 @@
+ant_code/webcam/
+ant_code/webcam_board_floor/
+*.avi
+realant/
+realant-auxiliary/
